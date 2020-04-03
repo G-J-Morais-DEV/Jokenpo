@@ -1,0 +1,1 @@
+let jokenpo = new JokenpoController();
